@@ -1,2 +1,3 @@
 # testVS
 so this is just a dummy repo, for testing gitkraken...
+// and this is #1 in readme.md dummy edit
