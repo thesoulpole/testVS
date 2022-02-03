@@ -6,6 +6,7 @@ var ws = fs.createWriteStream('./Ketter.log', {
 	});
 var through = require('through2');
 var t = new through();
+// #1 this is a first dummy edit, testing the kraken stuff
 t.pipe(process.stdout);
 t.pipe(ws);
 console.log = function () {
